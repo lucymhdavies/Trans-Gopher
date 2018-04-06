@@ -5,7 +5,10 @@ Show your love of GoLang and trans people with this Trans Gopher!
 
 The original Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)
 
-This particular gopher design is a modification of an image created by Takuya Ueda (https://twitter.com/tenntenn):
+This particular gopher design is a modification of an image created I got from keygx:
+https://github.com/keygx/Go-gopher-Vector
+
+This in turn is a modification of an image by Takuya Ueda (https://twitter.com/tenntenn):
 https://github.com/golang-samples/gopher-vector/blob/master/README.md#gopher
 
 

@@ -16,3 +16,12 @@ My version is licensed under Creative Commons Attribution 4.0 International (CC 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.ja">
 	<img alt="Creative Commons licensing" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
 </a>
+
+
+If you like it, and want to use it, go for it! I've deliberately licensed it such that you can do whatever you like, so long as you credit me with creating this version.
+
+If you use it, and want to give back, please consider making a donation to Women Who Go:
+https://www.womenwhogo.org/donations.html
+
+If you want to give money to me specifically:
+https://ko-fi.com/lucydavinhart

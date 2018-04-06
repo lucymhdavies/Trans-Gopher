@@ -18,6 +18,8 @@ My version is licensed under Creative Commons Attribution 4.0 International (CC 
 </a>
 
 
+## What can I do with this?
+
 If you like it, and want to use it, go for it! I've deliberately licensed it such that you can do whatever you like, so long as you credit me with creating this version.
 
 If you use it, and want to give back, please consider making a donation to Women Who Go:
@@ -25,3 +27,8 @@ https://www.womenwhogo.org/donations.html
 
 If you want to give money to me specifically:
 https://ko-fi.com/lucydavinhart
+
+## Can I just buy it on something pre-made?
+
+I'm still looking for somewhere I can do that, which will let people pay what they want, including a donation to Women Who Go.
+If you know of somewhere like that, please let me know!

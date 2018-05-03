@@ -33,5 +33,4 @@ https://ko-fi.com/lucydavinhart
 
 ## Can I just buy it on something pre-made?
 
-I'm still looking for somewhere I can do that, which will let people pay what they want, including a donation to Women Who Go.
-If you know of somewhere like that, please let me know!
+For now, available on [Redbubble](https://www.redbubble.com/people/strawberyutopia/works/31175959-trans-gopher)

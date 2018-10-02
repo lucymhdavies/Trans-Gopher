@@ -33,4 +33,7 @@ https://ko-fi.com/lucydavinhart
 
 ## Can I just buy it on something pre-made?
 
-For now, available on [Redbubble](https://www.redbubble.com/people/strawberyutopia/works/31175959-trans-gopher)
+Available on almost everything over on [Threadless](https://lucydavinhart.threadless.com/designs/trans-gopher/accessories/sticker):
+
+
+[![Trans Gopher Sticker on Laptop](https://cdn-images.threadless.com/threadless-media/artist_shops/shops/lucydavinhart/products/500370/sticker_clear_2-inch-1538483929-81fbcb93b0c66861de1189ef5d9b6400.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJyZXNpemUiLCBbODAwXSwge31dLCBbImNhbnZhc19jZW50ZXJlZCIsIFs4MDAsIDgwMCwgIiNmZmZmZmYiXSwge31dLCBbImVuY29kZSIsIFsianBnIiwgODVdLCB7fV1dfQ==)](https://lucydavinhart.threadless.com/designs/trans-gopher/accessories/sticker)

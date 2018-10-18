@@ -16,8 +16,8 @@ My version was made in Photoshop, as a proof of concept. I want to make a vector
 
 My version is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en">
-	<img alt="Creative Commons licensing" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en">
+	<img alt="Creative Commons licensing" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" />
 </a>
 
 
